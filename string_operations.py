@@ -1,3 +1,4 @@
+
 # String concatenation
 first_name = "Lakshmi"
 last_name = "Reddy"
